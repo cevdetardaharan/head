@@ -10,7 +10,7 @@ Welcome to the Head project, a comprehensive guide to HTML `<head>` tags.
 - [Link tags](#link-tags)
 - [Social Media](#social-media)
 - [Extra](#extra)
-- [License](#📝-license)
+- [License](#-license)
 
 # Introduction
 
